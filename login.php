@@ -6,7 +6,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Amministrazioni Bonizzi | Accesso area riservata</title>
+        <title>Compagnia | Accesso area riservata</title>
         
         <style>
             div._message {
@@ -109,7 +109,7 @@
         </div>
         <div class="big-container">
             <div class="big-container__header">
-                <img src="https://www.amministrazionibonizzi.it/img/logo.png" alt="">
+                <img src="..." alt="...">
             </div>
             <div class="big-container__description">
                 <?php if($action == 'login' || $action == 'logout') {echo '<p class="__description-text">accesso area riservata</p>';} else {echo '<p class="__description-text">invalid action</p>';} ?>
@@ -134,7 +134,7 @@
                 </form>
             </div>
             <div class="big-container__footer">
-                <p class="footer__text">via giacomo matteotti, 173 | 17022, Borgio Verezzi (SV)</p>
+                <p class="footer__text">...</p>
             </div>
         </div>
         <?php
