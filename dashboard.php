@@ -18,7 +18,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Amministrazioni Bonizzi | Area riservata</title>
+        <title>Compagnia | Area riservata</title>
         
         <style>
             div.big-container {
@@ -102,7 +102,7 @@
         <div class="big-container">
             <div class="big-container__header" style="display: flex;">
                 <div class="header__logo" style="width: 50%;">
-                    <img class="__logo-img" src="https://www.amministrazionibonizzi.it/img/logo.png" alt="logo bonizzi">
+                    <img class="__logo-img" src="..." alt="logo">
                 </div>
                 <div class="header__action" style="text-align: right; width: 50%;">
                     <p class="__welcome-message">Benvenuto, <?php echo $utente_nome; ?></p>
